@@ -22,3 +22,8 @@ sudo ./hack-captive.sh
 ```
 
 > Tested in Ubuntu 16.04 with different Captive portals in airports and hotels all over the world.
+
+### With Help from:
+> https://en.kali.tools/?p=724
+
+> https://kalitut.com/how-to-bypass-captive-portal-hotspot/
