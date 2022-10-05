@@ -9,7 +9,7 @@ The downside of course is that you have to observe someone already authenticated
 lobby this may be less difficult than it seems.  
 
 <p align="center">
-    <img src=/screenshot.png alt="Hack Captive portal">
+    <img src="./screenshot.png" alt="Hack Captive portal">
 </p>
 
 ### Installation and usage
@@ -33,6 +33,11 @@ Bash script-filename.sh
 #Change the "script-filename" to the name of the .sh file.
 ```
 and then hit the enter key.
+
+
+### [**How to run the Bash file in Android Device**](https://github.com/Isomkevin/Running-Shell-Script-in-Android)
+
+
 
 ### With Help from:
 > https://en.kali.tools/?p=724
