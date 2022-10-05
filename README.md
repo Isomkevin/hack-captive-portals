@@ -23,6 +23,17 @@ sudo ./hack-captive.sh
 
 > Tested in Ubuntu 16.04 with different Captive portals in airports and hotels all over the world.
 
+### How to run the Bash file in Window
+Open Command Prompt or powershell and navigate to the folder where the script file is available.
+Type 
+```
+curl https://raw.githubusercontent.com/systematicat/hack-captive-portals/master/hack-captive.sh -O script-filename.sh
+Bash script-filename.sh 
+
+#Change the "script-filename" to the name of the .sh file.
+```
+and then hit the enter key.
+
 ### With Help from:
 > https://en.kali.tools/?p=724
 
