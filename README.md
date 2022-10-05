@@ -1,4 +1,3 @@
-##Hey
 ## Hack Captive portals script
 
 This script is using MAC-spoofing technique. This method is the only one which is present in all wireless and some wired  
